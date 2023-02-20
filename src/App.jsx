@@ -47,8 +47,8 @@ const styless = StyleSheet.create({
   },
   Input: {
     borderRadius: 15,
-    borderWidth: 2,
-    borderColor: 'gray',
+    //borderWidth: 2,
+    backgroundColor: '#d3d3d3',
     paddingLeft: 15,
     marginHorizontal: 5,
   }
